@@ -34,7 +34,7 @@
   },
   "peerDependencies": {
     "antd": "latest",
-    "flipper-plugin": "^0.146.1"
+    "flipper-plugin": ">=0.146.1"
   },
   "devDependencies": {
     "@babel/preset-react": "latest",
